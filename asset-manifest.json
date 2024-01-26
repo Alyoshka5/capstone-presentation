@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/capstone-presentation/static/css/main.9459142c.css",
+    "main.js": "/capstone-presentation/static/js/main.056413b6.js",
+    "static/js/787.8ec8e10b.chunk.js": "/capstone-presentation/static/js/787.8ec8e10b.chunk.js",
+    "static/media/mining coal.jpg": "/capstone-presentation/static/media/mining coal.62b4e6b6351a3a9d247d.jpg",
+    "static/media/canada.jpg": "/capstone-presentation/static/media/canada.20718a00581966e85566.jpg",
+    "static/media/mentor.png": "/capstone-presentation/static/media/mentor.bfae2e073ef5cbead9f3.png",
+    "static/media/money tracking.png": "/capstone-presentation/static/media/money tracking.847025fe83160a8a03f2.png",
+    "static/media/ukraine.jpg": "/capstone-presentation/static/media/ukraine.32d7a0126ce9f35e23d3.jpg",
+    "static/media/design research 3.png": "/capstone-presentation/static/media/design research 3.0ae0d93037c39aff25ca.png",
+    "static/media/code 2.png": "/capstone-presentation/static/media/code 2.12151b3740d80654a30c.png",
+    "static/media/error.png": "/capstone-presentation/static/media/error.49d34f897143a9556ebf.png",
+    "static/media/resume builder.png": "/capstone-presentation/static/media/resume builder.391b24922dcbcc594c05.png",
+    "static/media/cryptocurrency.jpg": "/capstone-presentation/static/media/cryptocurrency.81d1f5da0f80c16dd7f5.jpg",
+    "static/media/code 1.png": "/capstone-presentation/static/media/code 1.f50b72362dbfdc3f08a1.png",
+    "static/media/research designs 1.jpg": "/capstone-presentation/static/media/research designs 1.0fb58c7e53fdf3c18d87.jpg",
+    "static/media/feature diagram.png": "/capstone-presentation/static/media/feature diagram.a77491f35d0d291074fa.png",
+    "static/media/code 3.png": "/capstone-presentation/static/media/code 3.8154e2f9fe9aa7b8c9a7.png",
+    "static/media/design research 2.png": "/capstone-presentation/static/media/design research 2.7e0a4dd84bbad6ec48e2.png",
+    "static/media/data flow chart.png": "/capstone-presentation/static/media/data flow chart.9dde2d9a4d51f62b74ed.png",
+    "static/media/mockup 3.png": "/capstone-presentation/static/media/mockup 3.5f2a0154cac5d5988a64.png",
+    "static/media/mockup 2.png": "/capstone-presentation/static/media/mockup 2.d91e2a4544512ea58b95.png",
+    "static/media/invenvory site.png": "/capstone-presentation/static/media/invenvory site.d93be2ee66a674921d3d.png",
+    "static/media/website architecture.png": "/capstone-presentation/static/media/website architecture.b956bfb1746a263a90b7.png",
+    "static/media/programming.webp": "/capstone-presentation/static/media/programming.bad1b1af2caedfe19b60.webp",
+    "static/media/youtube.jpg": "/capstone-presentation/static/media/youtube.3e29bd617519307008b1.jpg",
+    "static/media/mockup 1.png": "/capstone-presentation/static/media/mockup 1.0a33053f63625b08c429.png",
+    "static/media/2 transactions.png": "/capstone-presentation/static/media/2 transactions.49f75901d5a93c715126.png",
+    "index.html": "/capstone-presentation/index.html",
+    "main.9459142c.css.map": "/capstone-presentation/static/css/main.9459142c.css.map",
+    "main.056413b6.js.map": "/capstone-presentation/static/js/main.056413b6.js.map",
+    "787.8ec8e10b.chunk.js.map": "/capstone-presentation/static/js/787.8ec8e10b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9459142c.css",
+    "static/js/main.056413b6.js"
+  ]
+}
